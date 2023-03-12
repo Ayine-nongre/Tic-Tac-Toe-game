@@ -4,7 +4,7 @@ This is a simple implementation of the Tic-Tac-Toe game in C. The game allows tw
 
 ## How to compile and start
 
-Use command  ```gcc -Wall -pedantic -Werror -Wextra -std=gnu89 print_board.c check_win.c main.c -o game``` to create the executable file and ```./game``` to start the game
+Use command  ```gcc -Wall -pedantic -Werror -Wextra -std=gnu89 print_board.c check_win.c main.c -o game``` to create the executable file and ```./game``` to start the game. This game was tested on gcc version 11.3.0 and ubuntu version 22.4.
 
 ## Code structure
 The code is organized into several functions:
